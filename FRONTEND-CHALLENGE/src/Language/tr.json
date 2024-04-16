@@ -1,8 +1,8 @@
 {
     "header": {
-        "darkMode": "GECE MODU",
-        "lightMode": "GÜNDÜZ MODU",
-        "language": "ENGLISH",
+        "darkMode": "Gece Modu",
+        "lightMode": "Gündüz Modu",
+        "language": "EN",
         "skills": "Beceriler",
         "projects": "Projeler",
         "hireMe": "İletişim"
@@ -64,8 +64,8 @@
         "aboutMe": {
             "title": "Hakkımda",
             "paragraphs": [
-                "Lambadaki gitti salladı masaya doğru de mutlu oldular dışarı çıktılar bilgisayarı sıla ama göze çarpan tv balıkhaneye.",
-                "Domates tv de dışarı çıktılar salladı masaya doğru düşünüyor masanın telefonu. Çakıl yazın mutlu oldular."
+                "Kariyerim perakende sektöründe (Apple) başladı. Sonrasında Türkiye'nin tek hovercraft üreticisi olan Sky Havacılık'da devam ettim.",
+                "Şimdi ise Türkiye'nin ilk ve tek elektrikli araç servis ve satış merkezi olan E-Garaj'da kariyerime devam ediyorum. Sorun çözücü, analitik düşünürüm ve işletmeleri yönetiyorum, sürekli öğrenmeye devam ediyorum."
             ]
         }
     },
@@ -77,9 +77,9 @@
                 "image": "Rectangle-41.jpg",
                 "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal düzeyde kurulum gerektiren bir çerez eklentisi. Vanilla JS, SCSS ve Parcel Bundler ile oluşturulmuştur, NPM paketi olarak sunulmaktadır ve git deposu kod ve temalarda her türlü özelleştirmeyi mümkün kılmaktadır.",
                 "technologies": [
-                    "react",
-                    "redux",
-                    "axios"
+                    "React",
+                    "Redux",
+                    "Axios"
                 ],
                 "github": "Github",
                 "githubLink": "",
@@ -92,9 +92,9 @@
                 "image": "Rectangle-42.jpg",
                 "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal düzeyde kurulum gerektiren bir çerez eklentisi. Vanilla JS, SCSS ve Parcel Bundler ile oluşturulmuştur, NPM paketi olarak sunulmaktadır ve git deposu kod ve temalarda her türlü özelleştirmeyi mümkün kılmaktadır.",
                 "technologies": [
-                    "react",
-                    "redux",
-                    "axios"
+                    "React",
+                    "Redux",
+                    "Axios"
                 ],
                 "github": "Github",
                 "githubLink": "",
@@ -106,9 +106,9 @@
                 "image": "Rectangle-43.jpg",
                 "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal düzeyde kurulum gerektiren bir çerez eklentisi. Vanilla JS, SCSS ve Parcel Bundler ile oluşturulmuştur, NPM paketi olarak sunulmaktadır ve git deposu kod ve temalarda her türlü özelleştirmeyi mümkün kılmaktadır.",
                 "technologies": [
-                    "react",
-                    "redux",
-                    "axios"
+                    "React",
+                    "Redux",
+                    "Axios"
                 ],
                 "github": "Github",
                 "githubLink": "",

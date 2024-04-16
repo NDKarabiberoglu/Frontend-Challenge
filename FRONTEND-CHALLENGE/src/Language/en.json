@@ -1,10 +1,10 @@
 {
     "header": {
-        "darkMode": "DARK MODE",
-        "lightMode": "LIGHT MODE",
+        "darkMode": "Dark Mode",
+        "lightMode": "Light Mode",
         "skills": "Skills",
         "projects": "Projects",
-        "language": "TÜRKÇE",
+        "language": "TR",
         "hireMe": "Hire me"
     },
     "introduction": {
@@ -63,8 +63,8 @@
         "aboutMe": {
             "title": "About Me",
             "paragraphs": [
-                "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.",
-                "Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!"
+                "My career started in the retail sector (Apple). I continued my journey with Sky Aviation, the only hovercraft manufacturer in Turkey.",
+                "I continue my career journey with E-Garaj, Turkey's first and only electric car service and sales center. I am a problem solver, analytical thinker, managing operations and continuing to learn."
             ]
         }
     },
@@ -76,9 +76,9 @@
                 "image": "Rectangle-41.jpg",
                 "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
                 "technologies": [
-                    "react",
-                    "redux",
-                    "axios"
+                    "React",
+                    "Redux",
+                    "Axios"
                 ],
                 "github": "Github",
                 "githubLink": "",
@@ -90,9 +90,9 @@
                 "image": "Rectangle-42.jpg",
                 "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
                 "technologies": [
-                    "react",
-                    "redux",
-                    "axios"
+                    "React",
+                    "Redux",
+                    "Axios"
                 ],
                 "github": "Github",
                 "githubLink": "",
@@ -104,9 +104,9 @@
                 "image": "Rectangle-43.jpg",
                 "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
                 "technologies": [
-                    "react",
-                    "redux",
-                    "axios"
+                    "React",
+                    "Redux",
+                    "Axios"
                 ],
                 "github": "Github",
                 "githubLink": "",
