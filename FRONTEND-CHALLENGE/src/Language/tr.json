@@ -1,0 +1,137 @@
+{
+    "header": {
+        "darkMode": "GECE MODU",
+        "lightMode": "GÜNDÜZ MODU",
+        "language": "ENGLISH",
+        "skills": "Beceriler",
+        "projects": "Projeler",
+        "hireMe": "İletişim"
+
+    },
+    "introduction": {
+        "name": "Nevzat Doğukan Karabiberoğlu",
+        "heading1": "Çözüm Üretici!",
+        "heading2": "Analitik Düşünür!",
+        "description": "Merhaba, ben Nevzat Doğukan. Ben bir frontend geliştiriciyim. Tüm ürünlerinizin yönetimi için bir geliştirici arıyorsanız, tanışalım!",
+        "hireMe": "İletişim",
+        "github": "Github",
+        "linkedin": "LinkedIn",
+        "links": {
+            "github": "https://github.com/NDKarabiberoglu",
+            "linkedin": "https://www.linkedin.com/in/nevzatdogukankarabiberoglu/" 
+        }
+    },
+    "skills": {
+        "title": "Beceriler",
+        "items": [
+            {
+                "name": "Javascript",
+                "description": "Türemiş sıfat gördüm gazete değerli olduğu için adanaya telefonu lakin layıkıyla filmini mi masanın."
+            },
+            {
+                "name": "React.Js",
+                "description": "Çünkü bilgisayarı salladı hesap makinesi ve masaya doğru bahar mıknatıslı okuma sayfası beğendim."
+            },
+            {
+                "name": "Node.Js",
+                "description": "Masaya doğru ona doğru gördüm sıradanlıktan duyulmamış ona doğru telefonu dışarı çıktılar ama."
+            }
+        ]
+    },
+    "profile": {
+        "title": "Profil",
+        "basicInformation": {
+            "title": "Temel Bilgiler",
+            "items": [
+                {
+                    "label": "Doğum Tarihi",
+                    "value": "10.02.1994"
+                },
+                {
+                    "label": "İkamet Şehri",
+                    "value": "İstanbul"
+                },
+                {
+                    "label": "Eğitim Durumu",
+                    "value": "İstanbul Teknik Üniversitesi. Maden Mühendisliği, 2021"
+                },
+                {
+                    "label": "Tercih Ettiği Rol",
+                    "value": "Frontend, Operasyon, Ürün, Proje Yöneticisi"
+                }
+            ]
+        },
+        "aboutMe": {
+            "title": "Hakkımda",
+            "paragraphs": [
+                "Lambadaki gitti salladı masaya doğru de mutlu oldular dışarı çıktılar bilgisayarı sıla ama göze çarpan tv balıkhaneye.",
+                "Domates tv de dışarı çıktılar salladı masaya doğru düşünüyor masanın telefonu. Çakıl yazın mutlu oldular."
+            ]
+        }
+    },
+    "projects": {
+        "title": "Projeler",
+        "items": [
+            {
+                "title": "Workintech",
+                "image": "Rectangle-41.jpg",
+                "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal düzeyde kurulum gerektiren bir çerez eklentisi. Vanilla JS, SCSS ve Parcel Bundler ile oluşturulmuştur, NPM paketi olarak sunulmaktadır ve git deposu kod ve temalarda her türlü özelleştirmeyi mümkün kılmaktadır.",
+                "technologies": [
+                    "react",
+                    "redux",
+                    "axios"
+                ],
+                "github": "Github",
+                "githubLink": "",
+                "viewSiteLabel": "Siteyi Görüntüleyin",
+                "viewSiteLink": ""
+                
+            },
+            {
+                "title": "Random Jokes",
+                "image": "Rectangle-42.jpg",
+                "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal düzeyde kurulum gerektiren bir çerez eklentisi. Vanilla JS, SCSS ve Parcel Bundler ile oluşturulmuştur, NPM paketi olarak sunulmaktadır ve git deposu kod ve temalarda her türlü özelleştirmeyi mümkün kılmaktadır.",
+                "technologies": [
+                    "react",
+                    "redux",
+                    "axios"
+                ],
+                "github": "Github",
+                "githubLink": "",
+                "viewSiteLabel": "Siteyi Görüntüleyin",
+                "viewSiteLink": ""
+            },
+            {
+                "title": "Journey",
+                "image": "Rectangle-43.jpg",
+                "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal düzeyde kurulum gerektiren bir çerez eklentisi. Vanilla JS, SCSS ve Parcel Bundler ile oluşturulmuştur, NPM paketi olarak sunulmaktadır ve git deposu kod ve temalarda her türlü özelleştirmeyi mümkün kılmaktadır.",
+                "technologies": [
+                    "react",
+                    "redux",
+                    "axios"
+                ],
+                "github": "Github",
+                "githubLink": "",
+                "viewSiteLabel": "Siteyi Görüntüleyin",
+                "viewSiteLink": ""
+            }
+        ]
+    },
+    "footer": {
+        "contactHeader": "Bir sonraki ürününüz üzerinde birlikte çalışalım.",
+        "contactEmail": "karabiberoglu@icloud.com",
+        "personalBlog": "Kişisel Blog",
+        "github": "Github",
+        "linkedin": "LinkedIn",
+        "links": {
+            "personalBlog": "#",
+            "github": "https://github.com/NDKarabiberoglu",
+            "linkedin": "https://www.linkedin.com/in/nevzatdogukankarabiberoglu/"
+        }
+    },
+    "notifications": {
+        "pending": "Please wait...",
+        "success": "Language switch successful!",
+        "error": "We encountered an issue :("
+    }
+}
