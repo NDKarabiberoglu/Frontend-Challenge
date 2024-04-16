@@ -19,7 +19,7 @@ export const LanguageProvider = ({ children }) => {
 
   const fetchData = async () => {
     try {
-      const languageFile = await import(`../mocks/${language}.json`);
+      const languageFile = await import(`../Language/${language}.json`);
       const response = await axios.post('https://reqres.in/api/workintech', languageFile);
 
       console.log('API Response:', response.data);

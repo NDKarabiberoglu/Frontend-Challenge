@@ -61,7 +61,7 @@ export const Header = () => {
                 <div
                     className='h-10 w-10 rounded-full flex items-center justify-center bg-logo-lilac dark:bg-toggle-purple mr-auto'
                 >
-                    <span className='dark:text-dark-logo-font text-logo-purple transform rotate-45'>A</span>
+                    <span className='dark:text-dark-logo-font text-logo-purple transform rotate-45'>NDK</span>
                 </div>
                 <nav className="flex items-center space-x-2 lg:space-x-16 ml-auto">
                     <a href="#" onClick={() => scrollToSection('skills')} className='text-gray'>{apiHeader?.skills}</a>

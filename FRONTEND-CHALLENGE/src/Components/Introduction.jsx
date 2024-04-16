@@ -23,7 +23,7 @@ export const Introduction = () => {
     return (
         <div className="flex flex-col lg:flex-row gap-x-8 max-w-[80%] xl:max-w-6xl m-auto py-16 place-content-between">
             <div className="text-left">
-                <p className="mb-8 text-dark-purple dark:text-dark-mode-name">————— {name}</p>
+                <p className="mb-8 text-dark-blue dark:text-dark-mode-name">————— {name}</p>
                 <h1 className="font-bold text-black-heading dark:text-bluish-gray lg:text-6xl">{heading1}</h1>
                 <h1 className="font-bold text-black-heading dark:text-bluish-gray lg:text-6xl">{heading2}</h1>
                 <p className="mt-8 text-gray text-wrap dark:text-white lg:max-w-lg">{description}</p>
@@ -38,7 +38,7 @@ export const Introduction = () => {
                     <a href={links.linkedin} className={'inline-flex text-navy-blue m-2 xl:m-0 pt-4 px-4 h-14 lg:pl-6 w-30 xl:w-36 border border-navy-blue rounded-md dark:text-dark-mode-hire dark:border-dark-mode-hire dark:bg-dark-gray-button'}>{darkMode ? (<img src={LinkedInDark} className="inline-flex mr-2 mb-4" />) : (<img src={LinkedInLight} className="inline-flex mr-2 mb-4" />)}{linkedin}</a>
                 </nav>
             </div>
-            <img className="rounded-2xl mt-8 lg:mt-0 max-w-[476px] max-h-[375px]" src="../image1.jpg" />
+            <img className="rounded-2xl mt-8 lg:mt-0 max-w-[476px] max-h-[375px]" src="./src/assets/NDK.jpg" />
         </div>
     )
 }
