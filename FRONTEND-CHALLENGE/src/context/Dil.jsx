@@ -25,6 +25,7 @@ export const LanguageProvider = ({ children }) => {
       console.log('API Response:', response.data);
       updateApiResponse(response.data);
 
+    
     } catch (error) {
       console.error(error);
     } finally {
