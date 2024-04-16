@@ -5,6 +5,7 @@ import githubDark from '../assets/githubDark.svg';
 import LinkedInDark from '../assets/LinkedInDark.svg';
 import { useDarkMode } from "../context/DarkMode";
 import { useLanguage } from "../context/Dil";
+import NDK from '../assets/NDK.jpg';
 
 
 export const Introduction = () => {
@@ -38,7 +39,7 @@ export const Introduction = () => {
                     <a href={links.linkedin} className={'inline-flex text-navy-blue m-2 xl:m-0 pt-4 px-4 h-14 lg:pl-6 w-30 xl:w-36 border border-navy-blue rounded-md dark:text-dark-mode-hire dark:border-dark-mode-hire dark:bg-dark-gray-button'}>{darkMode ? (<img src={LinkedInDark} className="inline-flex mr-2 mb-4" />) : (<img src={LinkedInLight} className="inline-flex mr-2 mb-4" />)}{linkedin}</a>
                 </nav>
             </div>
-            <img className="rounded-2xl mt-8 lg:mt-0 max-w-[476px] max-h-[375px]" src="./src/assets/NDK.jpg" />
+            <img className="rounded-2xl mt-8 lg:mt-0 max-w-[476px] max-h-[375px]" src={NDK} />
         </div>
     )
 }
