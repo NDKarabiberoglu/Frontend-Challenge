@@ -23,7 +23,7 @@ export const Introduction = () => {
     return (
         <div className="flex flex-col lg:flex-row gap-x-8 max-w-[80%] xl:max-w-6xl m-auto py-16 place-content-between">
             <div className="text-left">
-                <p className="mb-8 text-dark-blue dark:text-dark-mode-name">————— {name}</p>
+                <p className="mb-8 text-dark-purple dark:text-dark-mode-name">————— {name}</p>
                 <h1 className="font-bold text-black-heading dark:text-bluish-gray lg:text-6xl">{heading1}</h1>
                 <h1 className="font-bold text-black-heading dark:text-bluish-gray lg:text-6xl">{heading2}</h1>
                 <p className="mt-8 text-gray text-wrap dark:text-white lg:max-w-lg">{description}</p>
