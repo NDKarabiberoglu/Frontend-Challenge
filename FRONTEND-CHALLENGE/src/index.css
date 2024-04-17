@@ -1,7 +1,7 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
-
+/* @tailwind ile kızdığı için çözüm olarak bulunan import adımı uygulandı*/
 :root {
   font-family: Inter, sans-serif;
   line-height: 1.5;

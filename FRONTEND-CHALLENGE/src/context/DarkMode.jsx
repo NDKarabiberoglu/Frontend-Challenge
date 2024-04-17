@@ -8,10 +8,13 @@ export const DarkModeProvider = ({ children }) => {
 
     useEffect(() => {
         const body = document.body;
+        // Sayfanın body elementini alıyor
         if (darkMode) {
           body.classList.add('dark');
+        // body elementine "dark" adında bir CSS sınıfı ekliyor
         } else {
           body.classList.remove('dark');
+        // body elementinden "dark" adında bir CSS sınıfını kaldırıyor
         }
       }, [darkMode]);
   const toggleDarkMode = () => {
@@ -26,5 +29,6 @@ export const DarkModeProvider = ({ children }) => {
 };
 
 export const useDarkMode = () => {
+// Karanlık mod durumu ve karanlık modu değiştirme işlevine erişim sağlanır
   return useContext(DarkModeContext);
 };
