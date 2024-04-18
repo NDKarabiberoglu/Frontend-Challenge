@@ -5,14 +5,14 @@
         "skills": "Skills",
         "projects": "Projects",
         "language": "TR",
-        "hireMe": "Hire me"
+        "hireMe": "Hire me!"
     },
     "introduction": {
         "name": "Nevzat Doğukan Karabiberoğlu",
         "heading1": "Problem Solver",
         "heading2": "Analytical Thinker",
         "description": "Hi, I’m Nevzat Dogukan. I’m a frontend developer. If you are looking for a developer to handle all over your products, let's meet!",
-        "hireMe": "Hire me",
+        "hireMe": "Hire me!",
         "github": "Github",
         "linkedin": "LinkedIn",
         "links": {
