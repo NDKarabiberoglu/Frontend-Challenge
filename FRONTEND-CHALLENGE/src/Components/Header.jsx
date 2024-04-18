@@ -12,6 +12,7 @@ export const Header = () => {
     const apiHeader = apiResponse?.header;
 
     const scrollToSection = (id) => {
+        //Scroll ile ilgili bölüme geçiş
         const section = document.getElementById(id);
         if (section) {
             section.scrollIntoView({ behavior: "smooth" });
@@ -20,9 +21,10 @@ export const Header = () => {
 
     const handleClick = () => {
         switchLanguage();
+        //Dil değişikliği için handleClick
 
         const notif = toast.loading(apiResponse ? apiResponse.notifications.pending : 'Hmm...', { pauseOnHover: false, theme: darkMode ? "dark" : "light", });
-
+        //Dil değişiklik mesajları
         {
             (apiResponse && Object.keys(apiResponse).length !== 0) ?
             (toast.update(notif, { render: apiResponse.notifications.success, type: "success", isLoading: false, delay: 1000, autoClose: 2000, }))

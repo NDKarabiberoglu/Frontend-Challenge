@@ -12,7 +12,7 @@ export const useLanguage = () => {
 export const LanguageProvider = ({ children }) => {
   const [language, setLanguage] = useLocalStorage('language', 'en');
   // "useLocalStorage" ile dil bilgisini ve dil değiştirme işlevini alıyoruz. Varsayılan dil "en" (İngilizce) olarak ayarlanmıştır.
-  const [apiResponse, setApiResponse] = useLocalStorage('whygodwhy', {});
+  const [apiResponse, setApiResponse] = useLocalStorage('nope', {});
   // "useLocalStorage" ile API yanıtını alıyoruz.
   const [loading, setLoading] = useState(true);
 
@@ -24,7 +24,7 @@ export const LanguageProvider = ({ children }) => {
     // Verileri getirmek için bir asenkron işlem
     try {
       const languageFile = await import(`../Language/${language}.json`);
-      // Seçilen dile göre dil dosyasını 
+      // Seçilen dile göre dil dosyasını alıyor
       const response = await axios.post('https://reqres.in/api/workintech', languageFile);
       // Dil dosyasını bir POST isteğiyle birlikte bir API'ye gönderiyoruz 
       console.log('API Response:', response.data);
